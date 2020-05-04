@@ -1,0 +1,7 @@
+body{
+    background-color:lightgray;
+    background-image: url("fall.gif");
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+
+}
